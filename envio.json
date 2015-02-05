@@ -8,7 +8,7 @@
 				"title": "Olá",
 				"message": "Bem-vindo ao Supermercado! Não esqueça de usar nosso app e ficar por dentro das promoções!"
 			},
-			"proximity": 0.2,
+			"proximity": 0.15,
 			"repeat": "never"
 		}
 },{
@@ -21,7 +21,7 @@
 				"message": "Confira a promoção de Heineken neste corredor!",
 				"goTo": "Bebidas"
 			},
-			"proximity": 0.2,
+			"proximity": 0.15,
 			"repeat": "afterAnotherGoToNotification"
 		}
 }]
